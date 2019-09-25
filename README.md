@@ -16,6 +16,7 @@ PHP：SSRPanel 官方必须为 PHP 7.1 版本。
 
 后端
 git clone https://github.com/miseryCN/shadowsocksr.git
+备用：https://github.com/haogemen/shadowsocksr
 
 教程 https://www.xiaoweigod.com/network/1363.html
 
